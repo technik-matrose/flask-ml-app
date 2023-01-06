@@ -30,8 +30,7 @@ stages:
   displayName: Build stage
   jobs:
   - job: BuildJob
-    pool:
-      vmImage: myLinuxVM
+    pool: udacity-pool
     steps:
     - task: UsePythonVersion@0
       inputs:
@@ -66,8 +65,7 @@ stages:
   condition: succeeded()
   jobs:
   - deployment: DeploymentJob
-    pool:
-      vmImage: myLinuxVM
+    pool: udacity-pool
     environment: $(environmentName)
     strategy:
       runOnce:
