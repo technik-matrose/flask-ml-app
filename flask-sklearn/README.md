@@ -41,6 +41,9 @@ Successful prediction from deployed flask app in Azure Cloud Shell
 * Run command './make_predict_azure_app.sh'
 
 Output of streamed log files from deployed application
+* The output can be found in the log of the deployment job
+* Here is a snippet of the log files
+![grafik](https://user-images.githubusercontent.com/121881667/212567615-66da8286-ed8a-4d8c-92b3-bb749c07a805.png)
 
 
 ## Enhancements
@@ -49,6 +52,6 @@ In future an improvement can be to deploy the App directly here from GitHub in A
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
+No link to youtube.
 
 
