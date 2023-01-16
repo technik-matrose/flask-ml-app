@@ -52,6 +52,6 @@ In future an improvement can be to deploy the App directly here from GitHub in A
 
 ## Demo 
 
-You can find a demo video in the same directory as this README.md file.
+You can find a video with a demo here: https://vimeo.com/789611820
 
 
