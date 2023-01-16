@@ -29,6 +29,8 @@ Successful deploy of the project in Azure Pipelines
 * Create a project in Azure DevOps
 * Add a new service connection "Azure Resource Manager" like ![grafik](https://user-images.githubusercontent.com/121881667/211029493-e9dfc1a3-5c91-4535-b917-14415049f8f9.png)
 * Create a new pipeline and select the 'Python to Linux Web App on Azure' configuration ![grafik](https://user-images.githubusercontent.com/121881667/211029804-53a10cbd-40eb-4d13-998f-5bb61aa0fb79.png)
+  
+  [![Python application](https://github.com/technik-matrose/flask-ml-app/actions/workflows/python-app.yml/badge.svg)](https://github.com/technik-matrose/flask-ml-app/actions/workflows/python-app.yml)
 * Select your recently created App service
 
 Running Azure App Service from Azure Pipelines automatic deployment
