@@ -56,4 +56,4 @@ In future an improvement can be to deploy the App directly here from GitHub in A
 
 You can find a video with a demo here: https://vimeo.com/789611820
 
-
+[![Python application](https://github.com/technik-matrose/flask-ml-app/actions/workflows/python-app.yml/badge.svg)](https://github.com/technik-matrose/flask-ml-app/actions/workflows/python-app.yml)
