@@ -52,6 +52,6 @@ In future an improvement can be to deploy the App directly here from GitHub in A
 
 ## Demo 
 
-No link to youtube.
+You can find a demo video in the same directory as this README.md file.
 
 
